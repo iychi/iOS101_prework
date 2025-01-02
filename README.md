@@ -1,6 +1,5 @@
 # iOS101_prework
 
-# Prework - *Name of App Here*
 
 Submitted by: **Iyu Lin**
 
@@ -22,7 +21,8 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[!GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBpOGNmbnRpYWhwejk5eDF1c2NqcXQwcmp6dWY4NXN3OWlqeDNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eltwoROu3BIyYbIrHO/giphy.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBpOGNmbnRpYWhwejk5eDF1c2NqcXQwcmp6dWY4NXN3OWlqeDNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eltwoROu3BIyYbIrHO/giphy.gif)
+
 
 ## App Brainstorming (Step 4)
 
