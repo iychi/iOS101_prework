@@ -4,24 +4,60 @@
 
 Submitted by: **Iyu Lin**
 
-**Name of your app** is an app that... [TODO] 
+**Name of your app** is an app that changes the background color of the app by clicking the "Click" button.
 
-Time spent: **X** hours spent in total
+
+
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+- [x] When the button is clicked, it slightly scale down on touch and scale back up on release.
  
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[!GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBpOGNmbnRpYWhwejk5eDF1c2NqcXQwcmp6dWY4NXN3OWlqeDNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eltwoROu3BIyYbIrHO/giphy.gif)
 
 ## App Brainstorming (Step 4)
+
+### Favorite apps
+
+App: Notion
+- Flexible note formats and templates such as to-do lists, notes, and databases.
+- Team members can work simultaneously on the same page, with real-time updates and comments.
+
+App: Spotify
+- Users can start playing music on one device and continue seamlessly on another.
+- Users can adjust the progress of the music they are listening to.
+
+App: Line
+- Provides a wide range of fun and expressive stickers for messaging!
+- Offers an easy-to-use payment system for transferring money and receiving payments.
+- Includes an integrated shopping platform for purchasing directly through the app.
+
+
+### App Idea: **MeetFit**
+
+MeetFit is a fitness application that integrates social features to help users find
+workout partners and participate in local fitness events. It allows users to match with
+workout partners based on location, interests, and fitness levels. Additionally, MeetFit
+offers personalized fitness plans and tracking tools to encourage users to maintain their
+exercise routines.
+
+Key Features:
+
+**Workout Partner Matching**: Users can find and match with workout partners based on personal preferences and activity levels.
+
+**Progress Tracking**: Provides detailed fitness logs and tracking features to help users quantify their exercise achievements.
+**Social Interaction**: Users can add friends and share their exercise achievements and healthy recipes on the platform.
+
+
 
 ## Notes
 
